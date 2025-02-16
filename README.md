@@ -1,5 +1,5 @@
 # Hi,there.
-# I am Deepak
+# I am Deepak Patel
 
 # 💫 About Me:
 🎓 2nd-year BCA student passionate about software development.<br>💡 Strong hands-on experience in Java programming and Android development.<br>📱 Skilled in Kotlin and Jetpack Compose for modern UI development.<br>🔥 Currently sharpening my Data Structures & Algorithms (DSA) skills in Java.
